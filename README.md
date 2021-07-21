@@ -31,7 +31,7 @@ open-source. Please feel free to contribute!
 
 ##  Miscellaneous
 
-- **[PHAGES2050](https://github.com/ptynecki/PHAGES2050)** - abc
+- **[PHAGES2050](https://github.com/ptynecki/PHAGES2050)** - a comprehensive AI-based Framework for Phage Research & Therapy
 - **[phagesdb](https://phagesdb.org/)** - abc
 - **[millardlab](http://millardlab.org/)** - abc
 - **[inphared](https://github.com/RyanCook94/inphared)** - abc
