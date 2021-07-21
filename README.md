@@ -32,6 +32,7 @@ open-source. Please feel free to contribute!
 ##  Miscellaneous
 
 - **[PHAGES2050](https://github.com/ptynecki/PHAGES2050)** - a comprehensive AI-based Framework for Phage Research & Therapy
+- **[phage.ai](https://phage.ai/)** - PhageAI is an AI-driven software platform using advanced Machine Learning and Natural Language Processing techniques for deeper understanding of the bacteriophages genomics.
 - **[phagesdb](https://phagesdb.org/)** - abc
 - **[millardlab](http://millardlab.org/)** - abc
 - **[inphared](https://github.com/RyanCook94/inphared)** - abc
