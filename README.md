@@ -5,6 +5,8 @@ open-source. Please feel free to contribute!
 
 ## Annotation
 
+- **[VIRify](https://github.com/EBI-Metagenomics/emg-viral-pipeline)** - VIRify: detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies
+
 ### Prophage prediction
 
 - **[Phaster](https://github.com/mattgodbolt/zindex)** - Structural gene annotation using machine learning.
@@ -29,6 +31,7 @@ open-source. Please feel free to contribute!
 
 ##  Miscellaneous
 
+- **[PHAGES2050](https://github.com/ptynecki/PHAGES2050)** - abc
 - **[phagesdb](https://phagesdb.org/)** - abc
 - **[millardlab](http://millardlab.org/)** - abc
 - **[inphared](https://github.com/RyanCook94/inphared)** - abc
