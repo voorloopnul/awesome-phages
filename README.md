@@ -28,6 +28,9 @@ approach to detect diverse DNA and RNA virus genomes..
 
 ### Annotation
 
+- **[multiPhATE2](https://github.com/carolzhou/multiPhATE2)** - MultiPhATE is a command-line program that runs gene
+finding and the PhATE annotation code over user-specified phage genomes, then performs gene-by-gene comparisons among
+the genomes.
 - **[Phanns](https://github.com/Adrian-Cantu/PhANNs)** - PhANNs is a tool to classify any phage ORF as one of 10
 structural protein class, or as "others". It uses an ensemble of Artificial Neural Networks.
   - [web](https://edwards.sdsu.edu/phanns)
