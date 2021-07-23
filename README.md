@@ -10,21 +10,21 @@ viruses from metagenomic and metatranscriptomic assemblies
 
 ### Prophage prediction
 
-- **[Phaster](https://phaster.ca/)** - Rapid identification and annotation of prophage sequences within bacterial
+- **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - rapid prophage detection and annotation.
+- **Phaster** - Rapid identification and annotation of prophage sequences within bacterial
 genomes and plasmids.
   - [web](https://phaster.ca/)
+- **[Phigaro](https://github.com/bobeobibo/phigaro)** - Phigaro is a standalone command-line application that is able
+to detect prophage regions taking raw genome and metagenome assemblies as an input.
+- **[PhageBoost](https://github.com/ku-cbd/PhageBoost)** - Rapid discovery of novel prophages using
+biological feature engineering and machine learning
+- **[PhiSpy](https://github.com/linsalrob/phispy)** - PhiSpy identifies prophages in Bacterial genomes. Given an
+annotated genome it will use several approaches to identify the most likely prophage regions.
 - **[Vibrant](https://github.com/AnantharamanLab/VIBRANT)** - VIBRANT is a tool for automated recovery and annotation
 of bacterial and archaeal viruses, determination of genome completeness, and characterization of viral community
 function from metagenomic assemblies.
 - **[VirSorter2](https://github.com/jiarong/VirSorter2)** - VirSorter2 applies a multi-classifier, expert-guided
 approach to detect diverse DNA and RNA virus genomes..
-- **[Phigaro](https://github.com/bobeobibo/phigaro)** - Phigaro is a standalone command-line application that is able
-to detect prophage regions taking raw genome and metagenome assemblies as an input.
-- **[PhageBoost](https://github.com/ku-cbd/PhageBoost)** - Rapid discovery of novel prophages using
-biological feature engineering and machine learning
-- **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - rapid prophage detection and annotation.
-- **[PhiSpy](https://github.com/linsalrob/phispy)** - PhiSpy identifies prophages in Bacterial genomes. Given an
-annotated genome it will use several approaches to identify the most likely prophage regions.
 
 ### Annotation
 
