@@ -13,10 +13,22 @@ viruses from metagenomic and metatranscriptomic assemblies
 - **[Phaster](https://phaster.ca/)** - Rapid identification and annotation of prophage sequences within bacterial
 genomes and plasmids.
   - [web](https://phaster.ca/)
-- **[Vibrant](https://github.com/mattgodbolt/zindex)** - Structural gene annotation using machine learning.
-- **[VirSorter2](https://github.com/mattgodbolt/zindex)** - Structural gene annotation using machine learning.
-- **[Phage Finder](https://github.com/mattgodbolt/zindex)** - Structural gene annotation using machine learning.
-- **[Phigaro](https://github.com/mattgodbolt/zindex)** - Structural gene annotation using machine learning.
+- **[Vibrant](https://github.com/AnantharamanLab/VIBRANT)** - VIBRANT is a tool for automated recovery and annotation
+of bacterial and archaeal viruses, determination of genome completeness, and characterization of viral community
+function from metagenomic assemblies.
+- **[VirSorter2](https://github.com/jiarong/VirSorter2)** - VirSorter2 applies a multi-classifier, expert-guided
+approach to detect diverse DNA and RNA virus genomes..
+- **[Phigaro](https://github.com/bobeobibo/phigaro)** - Phigaro is a standalone command-line application that is able
+to detect prophage regions taking raw genome and metagenome assemblies as an input.
+- **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - rapid prophage detection and annotation.
+- **[PhageBoost](https://github.com/ku-cbd/PhageBoost)** - Rapid discovery of novel prophages using
+biological feature engineering and machine learning
+- **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - rapid prophage detection and annotation.
+- **[PhiSpy](https://github.com/linsalrob/phispy)** - PhiSpy identifies prophages in Bacterial genomes. Given an
+annotated genome it will use several approaches to identify the most likely prophage regions.
+
+Resources
+
 - **[Phispy](https://github.com/mattgodbolt/zindex)** - Structural gene annotation using machine learning.
 
 ### Annotation
