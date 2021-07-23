@@ -28,9 +28,14 @@ annotated genome it will use several approaches to identify the most likely prop
 
 ### Annotation
 
-- **[Phanns](https://github.com/mattgodbolt/zindex)** - Structural gene annotation using machine learning.
-- **[Phanotate](https://github.com/mattgodbolt/zindex)** - ORF caller designed for phage genomes.
-- **[Prokka](https://github.com/mattgodbolt/zindex)** - Prokka is not phage specific but is often used to annotate phages.
+- **[Phanns](https://github.com/Adrian-Cantu/PhANNs)** - PhANNs is a tool to classify any phage ORF as one of 10
+structural protein class, or as "others". It uses an ensemble of Artificial Neural Networks.
+  - [web](https://edwards.sdsu.edu/phanns)
+- **[Phanotate](https://github.com/deprekate/PHANOTATE)** - PHANOTATE is a tool to annotate phage genomes. It uses the
+assumption that non-coding bases in a phage genome is disadvantageous, and then populates a weighted graph to find the
+optimal path through the six frames of the DNA where open reading frames are beneficial paths, while gaps and overlaps
+are penalized paths.
+- **[Prokka](https://github.com/tseemann/prokka)** - Prokka is not phage specific but is often used to annotate phages.
 
 ### Web tools
 
