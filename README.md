@@ -9,7 +9,8 @@ open-source. Please feel free to contribute!
 
 ### Prophage prediction
 
-- **[Phaster](https://github.com/mattgodbolt/zindex)** - Structural gene annotation using machine learning.
+- **[Phaster](https://phaster.ca/)** - Rapid identification and annotation of prophage sequences within bacterial genomes and plasmids.
+  - [web](https://phaster.ca/)
 - **[Vibrant](https://github.com/mattgodbolt/zindex)** - Structural gene annotation using machine learning.
 - **[VirSorter2](https://github.com/mattgodbolt/zindex)** - Structural gene annotation using machine learning.
 - **[Phage Finder](https://github.com/mattgodbolt/zindex)** - Structural gene annotation using machine learning.
