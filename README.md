@@ -44,8 +44,8 @@ are penalized paths.
 ### Web tools
 
 - **[Patric]()** abc
-- **[Phamerator](https://phamerator.org/)** a comparative genomics and genome exploration tool for bacteriophages.
- - [github](https://github.com/scresawn/phamerator)
+- **[Phamerator](https://phamerator.org/)** - a comparative genomics and genome exploration tool for bacteriophages.
+  - [github](https://github.com/scresawn/phamerator)
 - **[RAST](https://github.com/mattgodbolt/zindex)** - Web based tool for prokariote annotation
 
 ##  Miscellaneous
