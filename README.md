@@ -51,12 +51,21 @@ are penalized paths.
 ##  Miscellaneous
 
 - **[PHAGES2050](https://github.com/ptynecki/PHAGES2050)** - a comprehensive AI-based Framework for Phage Research & Therapy
-- **[phage.ai](https://phage.ai/)** - PhageAI is an AI-driven software platform using advanced Machine Learning and Natural Language Processing techniques for deeper understanding of the bacteriophages genomics.
-- **[phagesdb](https://phagesdb.org/)** - abc
-- **[millardlab](http://millardlab.org/)** - abc
-- **[inphared](https://github.com/RyanCook94/inphared)** - abc
-- **[seaphages](https://seaphages.org/)** - Abc
-- **[phage.directory](https://phage.directory/)** - Abc
+- **[phage.ai](https://phage.ai/)** - PhageAI is an AI-driven software platform using advanced Machine Learning and
+Natural Language Processing techniques for deeper understanding of the bacteriophages genomics.
+- **[phagesdb](https://phagesdb.org/)** - The Actinobacteriophage database, more commonly known as PhagesDB, is a
+database-backed website that gathers and shares information related to the discovery, characterization and genomics of
+viruses that prefer to infect Actinobacterial hosts
+- **[millardlab](http://millardlab.org/)** - Lab from the University of Leicester focused on bacteriophages with plenty
+of resources for phage bioinformatics.
+- **[inphared](https://github.com/RyanCook94/inphared)** - Providing up-to-date phage genome databases, metrics and
+useful input files for a number of bioinformatic pipelines.
+- **[seaphages](https://seaphages.org/)** - SEA-PHAGES is a two-semester, discovery-based undergraduate research course
+that begins with simple digging in the soil to find new viruses, but progresses through a variety of microbiology
+techniques and eventually to complex genome annotation and bioinformatic analyses.
+- **[phage.directory](https://phage.directory/)** - Phage Directory curates a database of phage labs, phages, and host
+strains to advance research and phage therapy.
+
 
 ## Kwnologe base
 
