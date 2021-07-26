@@ -49,13 +49,17 @@ are penalized paths.
 
 ### Web tools
 
-- **[Patric]()** abc
-- **[Phamerator](https://phamerator.org/)** - a comparative genomics and genome exploration tool for bacteriophages.
-  - [github](https://github.com/scresawn/phamerator) / [web](https://phamerator.org/)
-- **[RAST](https://github.com/mattgodbolt/zindex)** - Web based tool for prokariote annotation
+- **[Patric](https://www.patricbrc.org/)** PATRIC, the Pathosystems Resource Integration Center, provides integrated data and analysis tools to
+support biomedical research on bacterial infectious diseases.
+- **[Phamerator](https://phamerator.org/)** - Comparative genomics and genome exploration tool for bacteriophages.
+  - [github](https://github.com/scresawn/phamerator)
+- **[RAST](https://rast.nmpdr.org/)** - RAST (Rapid Annotation using Subsystem Technology) is a fully-automated service
+for annotating complete or nearly complete bacterial and archaeal genomes. It provides high quality genome annotations
+for these genomes across the whole phylogenetic tree.
 - **[Phaster](https://phaster.ca/)** - Rapid identification and annotation of prophage sequences within bacterial
 genomes and plasmids.
   - [pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987931/)
+
 ##  Miscellaneous
 
 - **[PHAGES2050](https://github.com/ptynecki/PHAGES2050)** - a comprehensive AI-based Framework for Phage Research & Therapy
