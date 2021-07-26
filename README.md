@@ -43,7 +43,6 @@ finding and the PhATE annotation code over user-specified phage genomes, then pe
 the genomes.
 - **[Phanns](https://github.com/Adrian-Cantu/PhANNs)** - PhANNs is a tool to classify any phage ORF as one of 10
 structural protein class, or as "others". It uses an ensemble of Artificial Neural Networks.
-  - [web](https://edwards.sdsu.edu/phanns)
 - **[Phanotate](https://github.com/deprekate/PHANOTATE)** - PHANOTATE is a tool to annotate phage genomes. It uses the
 assumption that non-coding bases in a phage genome is disadvantageous, and then populates a weighted graph to find the
 optimal path through the six frames of the DNA where open reading frames are beneficial paths, while gaps and overlaps
@@ -61,7 +60,8 @@ for annotating complete or nearly complete bacterial and archaeal genomes. It pr
 for these genomes across the whole phylogenetic tree.
 - **[Phaster](https://phaster.ca/)** - Rapid identification and annotation of prophage sequences within bacterial
 genomes and plasmids.
-  - [pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987931/)
+- **[Phanns](https://edwards.sdsu.edu/phanns)** - PhANNs is a tool to classify any phage ORF as one of 10
+structural protein class, or as "others". It uses an ensemble of Artificial Neural Networks.
 
 ##  Miscellaneous
 
