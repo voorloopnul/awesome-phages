@@ -24,8 +24,10 @@ and annotation.
   - [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.12.199018v1.full)
 - **[Phigaro](https://github.com/bobeobibo/phigaro)** - Phigaro is a standalone command-line application that is able
 to detect prophage regions taking raw genome and metagenome assemblies as an input.
+  - [biorxiv](https://www.biorxiv.org/content/10.1101/598243v1)
 - **[PhageBoost](https://github.com/ku-cbd/PhageBoost)** - Rapid discovery of novel prophages using
 biological feature engineering and machine learning
+  - [biorxiv](https://www.biorxiv.org/content/10.1101/2020.08.09.243022v1.full)
 - **[PhiSpy](https://github.com/linsalrob/phispy)** - PhiSpy identifies prophages in Bacterial genomes. Given an
 annotated genome it will use several approaches to identify the most likely prophage regions.
 - **[Vibrant](https://github.com/AnantharamanLab/VIBRANT)** - VIBRANT is a tool for automated recovery and annotation
