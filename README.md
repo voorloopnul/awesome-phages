@@ -17,7 +17,7 @@ relatedness among bacteria.
 
 ### Prophage prediction
 
-- **[hafeZ](https://github.com/Chrisjrt/hafeZ)** [[b]](https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1) -
+- **[hafeZ](https://github.com/Chrisjrt/hafeZ)** [[b]][100] -
 A tool for identifying inducible prophage elements through read mapping
 - **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)**
 [[b]](https://www.biorxiv.org/content/10.1101/2020.07.12.199018v1.full) - an integrated tool for rapid prophage detection
@@ -30,11 +30,14 @@ metagenome assemblies as an input.
 biological feature engineering and machine learning
 - **[PhiSpy](https://github.com/linsalrob/phispy)** - PhiSpy identifies prophages in Bacterial genomes. Given an
 annotated genome it will use several approaches to identify the most likely prophage regions.
-- **[Vibrant](https://github.com/AnantharamanLab/VIBRANT)** - VIBRANT is a tool for automated recovery and annotation
-of bacterial and archaeal viruses, determination of genome completeness, and characterization of viral community
-function from metagenomic assemblies.
+- **[Vibrant](https://github.com/AnantharamanLab/VIBRANT)**
+[[c]](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00867-0) - VIBRANT is a tool for
+automated recovery and annotation of bacterial and archaeal viruses, determination of genome completeness, and
+characterization of viral community function from metagenomic assemblies.
 - **[VirSorter2](https://github.com/jiarong/VirSorter2)** - VirSorter2 applies a multi-classifier, expert-guided
 approach to detect diverse DNA and RNA virus genomes..
+
+[100]:https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1
 
 ### Annotation
 
