@@ -21,10 +21,6 @@ relatedness among bacteria.
   - [biorxiv](https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1)
 - **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - rapid prophage detection and annotation.
   - [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.12.199018v1.full)
-- **Phaster** - Rapid identification and annotation of prophage sequences within bacterial
-genomes and plasmids.
-  - [web](https://phaster.ca/)
-  - [pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987931/)
 - **[Phigaro](https://github.com/bobeobibo/phigaro)** - Phigaro is a standalone command-line application that is able
 to detect prophage regions taking raw genome and metagenome assemblies as an input.
 - **[PhageBoost](https://github.com/ku-cbd/PhageBoost)** - Rapid discovery of novel prophages using
@@ -57,7 +53,9 @@ are penalized paths.
 - **[Phamerator](https://phamerator.org/)** - a comparative genomics and genome exploration tool for bacteriophages.
   - [github](https://github.com/scresawn/phamerator) / [web](https://phamerator.org/)
 - **[RAST](https://github.com/mattgodbolt/zindex)** - Web based tool for prokariote annotation
-
+- **[Phaster](https://phaster.ca/)** - Rapid identification and annotation of prophage sequences within bacterial
+genomes and plasmids.
+  - [pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987931/)
 ##  Miscellaneous
 
 - **[PHAGES2050](https://github.com/ptynecki/PHAGES2050)** - a comprehensive AI-based Framework for Phage Research & Therapy
