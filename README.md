@@ -10,20 +10,21 @@ viruses from metagenomic and metatranscriptomic assemblies
 
 ### Host prediction
 
-- **[phirbo](https://github.com/aziele/phirbo)** [[b]](https://www.biorxiv.org/content/10.1101/2021.01.05.425417v1) - A tool to predict prokaryotic hosts for phage (meta)genomic
-sequences. The tool uses information on sequence similarity between phage and bacteria genomes as well as sequence
+- **[phirbo](https://github.com/aziele/phirbo)** [[b]](https://www.biorxiv.org/content/10.1101/2021.01.05.425417v1) -
+A tool to predict prokaryotic hosts for phage (meta)genomic sequences. The tool uses information on sequence similarity
+between phage and bacteria genomes as well as sequence
 relatedness among bacteria.
 
 ### Prophage prediction
 
-- **[hafeZ](https://github.com/Chrisjrt/hafeZ)** - A tool for identifying inducible prophage elements through read mapping
-  - [biorxiv](https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1)
-- **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - an integrated tool for rapid prophage detection
+- **[hafeZ](https://github.com/Chrisjrt/hafeZ)** [[b]](https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1) -
+A tool for identifying inducible prophage elements through read mapping
+- **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)**
+[[b]](https://www.biorxiv.org/content/10.1101/2020.07.12.199018v1.full) - an integrated tool for rapid prophage detection
 and annotation.
-  - [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.12.199018v1.full)
-- **[Phigaro](https://github.com/bobeobibo/phigaro)** - Phigaro is a standalone command-line application that is able
-to detect prophage regions taking raw genome and metagenome assemblies as an input.
-  - [biorxiv](https://www.biorxiv.org/content/10.1101/598243v1)
+- **[Phigaro](https://github.com/bobeobibo/phigaro)** [[b]](https://www.biorxiv.org/content/10.1101/598243v1) -
+Phigaro is a standalone command-line application that is able to detect prophage regions taking raw genome and
+metagenome assemblies as an input.
 - **[PhageBoost](https://github.com/ku-cbd/PhageBoost)** - Rapid discovery of novel prophages using
 biological feature engineering and machine learning
   - [biorxiv](https://www.biorxiv.org/content/10.1101/2020.08.09.243022v1.full)
