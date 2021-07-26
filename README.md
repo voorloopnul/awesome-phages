@@ -53,7 +53,7 @@ are penalized paths.
 
 - **[Patric](https://www.patricbrc.org/)** PATRIC, the Pathosystems Resource Integration Center, provides integrated data and analysis tools to
 support biomedical research on bacterial infectious diseases.
-- **[Phamerator](https://phamerator.org/)** - [[source]](https://github.com/scresawn/phamerator)- Comparative genomics
+- **[Phamerator](https://phamerator.org/)** [[source]](https://github.com/scresawn/phamerator)- Comparative genomics
 and genome exploration tool for bacteriophages.
 - **[RAST](https://rast.nmpdr.org/)** - RAST (Rapid Annotation using Subsystem Technology) is a fully-automated service
 for annotating complete or nearly complete bacterial and archaeal genomes. It provides high quality genome annotations
