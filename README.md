@@ -17,14 +17,12 @@ relatedness among bacteria.
 
 ### Prophage prediction
 
-- **[hafeZ](https://github.com/Chrisjrt/hafeZ)** [[b]][100] -
-A tool for identifying inducible prophage elements through read mapping
-- **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)**
-[[b]](https://www.biorxiv.org/content/10.1101/2020.07.12.199018v1.full) - an integrated tool for rapid prophage detection
-and annotation.
-- **[Phigaro](https://github.com/bobeobibo/phigaro)** [[b]](https://www.biorxiv.org/content/10.1101/598243v1) -
-Phigaro is a standalone command-line application that is able to detect prophage regions taking raw genome and
-metagenome assemblies as an input.
+- **[hafeZ](https://github.com/Chrisjrt/hafeZ)** [[p]][100] - A tool for identifying inducible prophage elements
+through read mapping
+- **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** [[p]][101] - an integrated tool for rapid prophage
+detection and annotation.
+- **[Phigaro](https://github.com/bobeobibo/phigaro)** [[p]][102] - Phigaro is a standalone command-line application
+that is able to detect prophage regions taking raw genome and metagenome assemblies as an input.
 - **[PhageBoost](https://github.com/ku-cbd/PhageBoost)**
 [[b]](https://www.biorxiv.org/content/10.1101/2020.08.09.243022v1.full)- Rapid discovery of novel prophages using
 biological feature engineering and machine learning
@@ -38,6 +36,8 @@ characterization of viral community function from metagenomic assemblies.
 approach to detect diverse DNA and RNA virus genomes..
 
 [100]:https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1
+[101]:https://www.biorxiv.org/content/10.1101/2020.07.12.199018v1.full
+[102]:https://www.biorxiv.org/content/10.1101/598243v1
 
 ### Annotation
 
