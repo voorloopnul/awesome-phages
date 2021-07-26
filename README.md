@@ -18,7 +18,7 @@ relatedness among bacteria.
 ### Prophage prediction
 
 - **[hafeZ](https://github.com/Chrisjrt/hafeZ)** - A tool for identifying inducible prophage elements through read
-mapping __[biorxiv](https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1)__
+mapping _[biorxiv](https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1)_
 - **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - an integrated tool for rapid prophage detection
 and annotation.
   - [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.12.199018v1.full)
