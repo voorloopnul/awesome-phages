@@ -10,10 +10,10 @@ viruses from metagenomic and metatranscriptomic assemblies
 
 ### Host prediction
 
-- **[phirbo](https://github.com/aziele/phirbo)** [[b]](https://www.biorxiv.org/content/10.1101/2021.01.05.425417v1) -
-A tool to predict prokaryotic hosts for phage (meta)genomic sequences. The tool uses information on sequence similarity
-between phage and bacteria genomes as well as sequence
+- **[phirbo](https://github.com/aziele/phirbo)** - A tool to predict prokaryotic hosts for phage (meta)genomic
+sequences. The tool uses information on sequence similarity between phage and bacteria genomes as well as sequence
 relatedness among bacteria.
+[ [paper] ](https://www.biorxiv.org/content/10.1101/2021.01.05.425417v1)
 
 ### Prophage prediction
 
@@ -23,15 +23,15 @@ mapping
 
 - **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - an integrated tool for rapid prophage detection
 and annotation.
-[[paper]][https://www.biorxiv.org/content/10.1101/2020.07.12.199018v1.full]
+[ [paper] ](https://www.biorxiv.org/content/10.1101/2020.07.12.199018v1.full)
 
 - **[Phigaro](https://github.com/bobeobibo/phigaro)** - Phigaro is a standalone command-line application that is able
 to detect prophage regions taking raw genome and metagenome assemblies as an input.
-[[paper]][https://www.biorxiv.org/content/10.1101/598243v1]
+[ [paper] ](https://www.biorxiv.org/content/10.1101/598243v1)
 
 - **[PhageBoost](https://github.com/ku-cbd/PhageBoost)** - Rapid discovery of novel prophages using biological feature
 engineering and machine learning
-[[paper]](https://www.biorxiv.org/content/10.1101/2020.08.09.243022v1.full)
+[ [paper] ](https://www.biorxiv.org/content/10.1101/2020.08.09.243022v1.full)
 
 - **[PhiSpy](https://github.com/linsalrob/phispy)** - PhiSpy identifies prophages in Bacterial genomes. Given an
 annotated genome it will use several approaches to identify the most likely prophage regions.
