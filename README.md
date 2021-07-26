@@ -47,7 +47,8 @@ the genomes.
 [ [paper](https://www.biorxiv.org/content/10.1101/2020.10.05.324566v1) ]
 - **[Phanns](https://github.com/Adrian-Cantu/PhANNs)** - PhANNs is a tool to classify any phage ORF as one of 10
 structural protein class, or as "others". It uses an ensemble of Artificial Neural Networks.
-[ [paper](https://www.biorxiv.org/content/10.1101/2020.04.03.023523v1) ]
+[ [paper](https://www.biorxiv.org/content/10.1101/2020.04.03.023523v1) |
+  [web](https://edwards.sdsu.edu/phanns) ]
 - **[Phanotate](https://github.com/deprekate/PHANOTATE)** - PHANOTATE is a tool to annotate phage genomes. It uses the
 assumption that non-coding bases in a phage genome is disadvantageous, and then populates a weighted graph to find the
 optimal path through the six frames of the DNA where open reading frames are beneficial paths, while gaps and overlaps
@@ -59,15 +60,13 @@ are penalized paths.
 
 - **[Patric](https://www.patricbrc.org/)** PATRIC, the Pathosystems Resource Integration Center, provides integrated
 data and analysis tools to support biomedical research on bacterial infectious diseases.
-- **[Phamerator](https://phamerator.org/)** [[source]](https://github.com/scresawn/phamerator) - Comparative genomics
-and genome exploration tool for bacteriophages.
+- **[Phamerator](https://phamerator.org/)** - Comparative genomics and genome exploration tool for bacteriophages.
+[ [source](https://github.com/scresawn/phamerator) ]
 - **[RAST](https://rast.nmpdr.org/)** - RAST (Rapid Annotation using Subsystem Technology) is a fully-automated service
 for annotating complete or nearly complete bacterial and archaeal genomes. It provides high quality genome annotations
 for these genomes across the whole phylogenetic tree.
 - **[Phaster](https://phaster.ca/)** - Rapid identification and annotation of prophage sequences within bacterial
 genomes and plasmids.
-- **[Phanns](https://edwards.sdsu.edu/phanns)** - PhANNs is a tool to classify any phage ORF as one of 10
-structural protein class, or as "others". It uses an ensemble of Artificial Neural Networks.
 
 ##  Miscellaneous
 
