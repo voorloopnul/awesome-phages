@@ -44,12 +44,15 @@ approach to detect diverse DNA and RNA virus genomes..
 - **[multiPhATE2](https://github.com/carolzhou/multiPhATE2)** - MultiPhATE is a command-line program that runs gene
 finding and the PhATE annotation code over user-specified phage genomes, then performs gene-by-gene comparisons among
 the genomes.
+[ [paper](https://www.biorxiv.org/content/10.1101/2020.10.05.324566v1) ]
 - **[Phanns](https://github.com/Adrian-Cantu/PhANNs)** - PhANNs is a tool to classify any phage ORF as one of 10
 structural protein class, or as "others". It uses an ensemble of Artificial Neural Networks.
+[ [paper](https://www.biorxiv.org/content/10.1101/2020.04.03.023523v1) ]
 - **[Phanotate](https://github.com/deprekate/PHANOTATE)** - PHANOTATE is a tool to annotate phage genomes. It uses the
 assumption that non-coding bases in a phage genome is disadvantageous, and then populates a weighted graph to find the
 optimal path through the six frames of the DNA where open reading frames are beneficial paths, while gaps and overlaps
 are penalized paths.
+[ [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6853651/) ]
 - **[Prokka](https://github.com/tseemann/prokka)** - Prokka is not phage specific but is often used to annotate phages.
 
 ### Web tools
