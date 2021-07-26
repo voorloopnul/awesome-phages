@@ -12,12 +12,13 @@ viruses from metagenomic and metatranscriptomic assemblies
 
 - **[phirbo](https://github.com/aziele/phirbo)** - A tool to predict prokaryotic hosts for phage (meta)genomic
 sequences. The tool uses information on sequence similarity between phage and bacteria genomes as well as sequence
-relatedness among bacteria _[biorxiv](https://www.biorxiv.org/content/10.1101/2021.01.05.425417v1)_
+relatedness among bacteria.
+  - [biorxiv](https://www.biorxiv.org/content/10.1101/2021.01.05.425417v1)
 
 ### Prophage prediction
 
-- **[hafeZ](https://github.com/Chrisjrt/hafeZ)** - A tool for identifying inducible prophage elements through read
-mapping _[biorxiv](https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1)_
+- **[hafeZ](https://github.com/Chrisjrt/hafeZ)** - A tool for identifying inducible prophage elements through read mapping
+  - [biorxiv](https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1)
 - **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - an integrated tool for rapid prophage detection
 and annotation.
   - [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.12.199018v1.full)
