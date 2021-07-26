@@ -17,9 +17,10 @@ relatedness among bacteria.
 
 ### Prophage prediction
 
-- **[hafeZ](https://github.com/Chrisjrt/hafeZ)** - A tool for identifying inducible prophage elements through read mapping
-  - [biorxiv](https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1)
-- **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - rapid prophage detection and annotation.
+- **[hafeZ](https://github.com/Chrisjrt/hafeZ)** - A tool for identifying inducible prophage elements through read
+mapping __[biorxiv](https://www.biorxiv.org/content/10.1101/2021.07.21.453177v1)__
+- **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - an integrated tool for rapid prophage detection
+and annotation.
   - [biorxiv](https://www.biorxiv.org/content/10.1101/2020.07.12.199018v1.full)
 - **[Phigaro](https://github.com/bobeobibo/phigaro)** - Phigaro is a standalone command-line application that is able
 to detect prophage regions taking raw genome and metagenome assemblies as an input.
