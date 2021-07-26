@@ -24,6 +24,7 @@ relatedness among bacteria.
 - **Phaster** - Rapid identification and annotation of prophage sequences within bacterial
 genomes and plasmids.
   - [web](https://phaster.ca/)
+  - [pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987931/)
 - **[Phigaro](https://github.com/bobeobibo/phigaro)** - Phigaro is a standalone command-line application that is able
 to detect prophage regions taking raw genome and metagenome assemblies as an input.
 - **[PhageBoost](https://github.com/ku-cbd/PhageBoost)** - Rapid discovery of novel prophages using
