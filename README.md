@@ -13,7 +13,6 @@ viruses from metagenomic and metatranscriptomic assemblies
 - **[phirbo](https://github.com/aziele/phirbo)** - A tool to predict prokaryotic hosts for phage (meta)genomic
 sequences. The tool uses information on sequence similarity between phage and bacteria genomes as well as sequence
 relatedness among bacteria.
-[ [paper](https://www.biorxiv.org/content/10.1101/2021.01.05.425417v1) ]
 
 ### Prophage prediction
 
@@ -40,8 +39,7 @@ finding and the PhATE annotation code over user-specified phage genomes, then pe
 the genomes.
 - **[Phanns](https://github.com/Adrian-Cantu/PhANNs)** - PhANNs is a tool to classify any phage ORF as one of 10
 structural protein class, or as "others". It uses an ensemble of Artificial Neural Networks.
-[ [paper](https://www.biorxiv.org/content/10.1101/2020.04.03.023523v1) |
-  [web](https://edwards.sdsu.edu/phanns) ]
+[ [web](https://edwards.sdsu.edu/phanns) ]
 - **[Phanotate](https://github.com/deprekate/PHANOTATE)** - PHANOTATE is a tool to annotate phage genomes. It uses the
 assumption that non-coding bases in a phage genome is disadvantageous, and then populates a weighted graph to find the
 optimal path through the six frames of the DNA where open reading frames are beneficial paths, while gaps and overlaps
