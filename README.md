@@ -10,10 +10,9 @@ viruses from metagenomic and metatranscriptomic assemblies
 
 ### Host prediction
 
-- **[phirbo](https://github.com/aziele/phirbo)** - A tool to predict prokaryotic hosts for phage (meta)genomic
+- **[phirbo](https://github.com/aziele/phirbo)** [[b]](https://www.biorxiv.org/content/10.1101/2021.01.05.425417v1) - A tool to predict prokaryotic hosts for phage (meta)genomic
 sequences. The tool uses information on sequence similarity between phage and bacteria genomes as well as sequence
 relatedness among bacteria.
-  - [biorxiv](https://www.biorxiv.org/content/10.1101/2021.01.05.425417v1)
 
 ### Prophage prediction
 
