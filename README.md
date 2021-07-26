@@ -8,6 +8,13 @@ open-source. Please feel free to contribute!
 - **[VIRify](https://github.com/EBI-Metagenomics/emg-viral-pipeline)** - VIRify: detection of phages and eukaryotic
 viruses from metagenomic and metatranscriptomic assemblies
 
+### Host prediction
+
+- **[phirbo](https://github.com/aziele/phirbo)** - A tool to predict prokaryotic hosts for phage (meta)genomic
+sequences. The tool uses information on sequence similarity between phage and bacteria genomes as well as sequence
+relatedness among bacteria.
+  - [biorxiv](https://www.biorxiv.org/content/10.1101/2021.01.05.425417v1)
+
 ### Prophage prediction
 
 - **[hafeZ](https://github.com/Chrisjrt/hafeZ)** - A tool for identifying inducible prophage elements through read mapping
