@@ -14,6 +14,11 @@ open-source. Please feel free to contribute!
 
 ## Annotation
 
+- **[inphared](https://github.com/RyanCook94/inphared)** - Providing up-to-date phage genome databases, metrics and
+useful input files for a number of bioinformatic pipelines.
+- **[Seeker](https://github.com/gussow/seeker)** - Seeker is a python library for discriminating between bacterial and
+phage genomes. Seeker is based on an LSTM deep-learning models and does not rely on a reference genome, genomic
+alignment or any direct genome comparison.
 - **[VIRify](https://github.com/EBI-Metagenomics/emg-viral-pipeline)** - VIRify: detection of phages and eukaryotic
 viruses from metagenomic and metatranscriptomic assemblies
 
@@ -25,10 +30,10 @@ relatedness among bacteria.
 
 ### Prophage prediction
 
-- **[hafeZ](https://github.com/Chrisjrt/hafeZ)** - A tool for identifying inducible prophage elements through read
-mapping
 - **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - an integrated tool for rapid prophage detection
 and annotation.
+- **[hafeZ](https://github.com/Chrisjrt/hafeZ)** - A tool for identifying inducible prophage elements through read
+mapping
 - **[Phigaro](https://github.com/bobeobibo/phigaro)** - Phigaro is a standalone command-line application that is able
 to detect prophage regions taking raw genome and metagenome assemblies as an input.
 - **[PhageBoost](https://github.com/ku-cbd/PhageBoost)** - Rapid discovery of novel prophages using biological feature
@@ -57,6 +62,8 @@ are penalized paths.
 
 ## Web tools
 
+- **[Phaster](https://phaster.ca/)** - Rapid identification and annotation of prophage sequences within bacterial
+genomes and plasmids.
 - **[Patric](https://www.patricbrc.org/)** PATRIC, the Pathosystems Resource Integration Center, provides integrated
 data and analysis tools to support biomedical research on bacterial infectious diseases.
 - **[Phamerator](https://phamerator.org/)** - Comparative genomics and genome exploration tool for bacteriophages.
@@ -64,26 +71,22 @@ data and analysis tools to support biomedical research on bacterial infectious d
 - **[RAST](https://rast.nmpdr.org/)** - RAST (Rapid Annotation using Subsystem Technology) is a fully-automated service
 for annotating complete or nearly complete bacterial and archaeal genomes. It provides high quality genome annotations
 for these genomes across the whole phylogenetic tree.
-- **[Phaster](https://phaster.ca/)** - Rapid identification and annotation of prophage sequences within bacterial
-genomes and plasmids.
 
 ##  Miscellaneous
 
-- **[PHAGES2050](https://github.com/ptynecki/PHAGES2050)** - a comprehensive AI-based Framework for Phage Research & Therapy
-- **[phage.ai](https://phage.ai/)** - PhageAI is an AI-driven software platform using advanced Machine Learning and
-Natural Language Processing techniques for deeper understanding of the bacteriophages genomics.
+- **[millardlab](http://millardlab.org/)** - Lab from the University of Leicester focused on bacteriophages with plenty
+of resources for phage bioinformatics.
+- **[phage.directory](https://phage.directory/)** - Phage Directory curates a database of phage labs, phages, and host
+strains to advance research and phage therapy.
 - **[phagesdb](https://phagesdb.org/)** - The Actinobacteriophage database, more commonly known as PhagesDB, is a
 database-backed website that gathers and shares information related to the discovery, characterization and genomics of
 viruses that prefer to infect Actinobacterial hosts
-- **[millardlab](http://millardlab.org/)** - Lab from the University of Leicester focused on bacteriophages with plenty
-of resources for phage bioinformatics.
-- **[inphared](https://github.com/RyanCook94/inphared)** - Providing up-to-date phage genome databases, metrics and
-useful input files for a number of bioinformatic pipelines.
+- **[PHAGES2050](https://github.com/ptynecki/PHAGES2050)** - a comprehensive AI-based Framework for Phage Research & Therapy
+- **[phage.ai](https://phage.ai/)** - PhageAI is an AI-driven software platform using advanced Machine Learning and
+Natural Language Processing techniques for deeper understanding of the bacteriophages genomics.
 - **[seaphages](https://seaphages.org/)** - SEA-PHAGES is a two-semester, discovery-based undergraduate research course
 that begins with simple digging in the soil to find new viruses, but progresses through a variety of microbiology
 techniques and eventually to complex genome annotation and bioinformatic analyses.
-- **[phage.directory](https://phage.directory/)** - Phage Directory curates a database of phage labs, phages, and host
-strains to advance research and phage therapy.
 
 
 ## Kwnologe base
