@@ -5,9 +5,12 @@ open-source. Please feel free to contribute!
 
 ## Table of Contents
 
-- [Annotation](##annotation)
-  - [Host prediction](###host-prediction)
-
+- [Annotation](#annotation)
+  - [Host prediction](#host-prediction)
+  - [Prophage prediction](#prophage-prediction)
+  - [Gene prediction](#gene-prediction)
+- [Web tools](#web-tools)
+- [Miscellaneous](#miscellaneous)
 
 ## Annotation
 
@@ -38,7 +41,7 @@ function from metagenomic assemblies.
 - **[VirSorter2](https://github.com/jiarong/VirSorter2)** - VirSorter2 applies a multi-classifier, expert-guided
 approach to detect diverse DNA and RNA virus genomes..
 
-### Annotation
+### Gene prediction
 
 - **[multiPhATE2](https://github.com/carolzhou/multiPhATE2)** - MultiPhATE is a command-line program that runs gene
 finding and the PhATE annotation code over user-specified phage genomes, then performs gene-by-gene comparisons among
@@ -52,7 +55,7 @@ optimal path through the six frames of the DNA where open reading frames are ben
 are penalized paths.
 - **[Prokka](https://github.com/tseemann/prokka)** - Prokka is not phage specific but is often used to annotate phages.
 
-### Web tools
+## Web tools
 
 - **[Patric](https://www.patricbrc.org/)** PATRIC, the Pathosystems Resource Integration Center, provides integrated
 data and analysis tools to support biomedical research on bacterial infectious diseases.
