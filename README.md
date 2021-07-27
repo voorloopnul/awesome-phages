@@ -1,9 +1,13 @@
 # Awesome phages
 
-![tooltip](https://i.ytimg.com/vi/YI3tsmFsrOg/maxresdefault.jpg)
-
 A curated list of awesome Phage related software, resources, and libraries. Mostly command line based, and free or
 open-source. Please feel free to contribute!
+
+## Table of Contents
+
+- [Annotation](##annotation)
+  - [Host prediction](###host-prediction)
+
 
 ## Annotation
 
