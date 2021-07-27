@@ -14,11 +14,10 @@ open-source. Please feel free to contribute!
 
 ## Annotation
 
-- **[inphared](https://github.com/RyanCook94/inphared)** - Providing up-to-date phage genome databases, metrics and
-useful input files for a number of bioinformatic pipelines.
 - **[Seeker](https://github.com/gussow/seeker)** - Seeker is a python library for discriminating between bacterial and
 phage genomes. Seeker is based on an LSTM deep-learning models and does not rely on a reference genome, genomic
 alignment or any direct genome comparison.
+[ [web](http://seeker.pythonanywhere.com/predict/) ]
 - **[VIRify](https://github.com/EBI-Metagenomics/emg-viral-pipeline)** - VIRify: detection of phages and eukaryotic
 viruses from metagenomic and metatranscriptomic assemblies
 
@@ -74,6 +73,8 @@ for these genomes across the whole phylogenetic tree.
 
 ##  Miscellaneous
 
+- **[inphared](https://github.com/RyanCook94/inphared)** - Providing up-to-date phage genome databases, metrics and
+useful input files for a number of bioinformatic pipelines.
 - **[millardlab](http://millardlab.org/)** - Lab from the University of Leicester focused on bacteriophages with plenty
 of resources for phage bioinformatics.
 - **[phage.directory](https://phage.directory/)** - Phage Directory curates a database of phage labs, phages, and host
