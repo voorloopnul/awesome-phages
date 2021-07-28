@@ -21,6 +21,7 @@ If you want to add a link, please try to follow these soft rules:
 ## Table of Contents
 
 - [Annotation](#annotation)
+  - [Genome prediction](#genome-prediction) 
   - [Host prediction](#host-prediction)
   - [Prophage prediction](#prophage-prediction)
   - [Gene prediction](#gene-prediction)
@@ -28,6 +29,8 @@ If you want to add a link, please try to follow these soft rules:
 - [Miscellaneous](#miscellaneous)
 
 ## Annotation
+
+### Genome prediction
 
 - **[Seeker](https://github.com/gussow/seeker)** - Seeker is a python library for discriminating between bacterial and
 phage genomes. Seeker is based on an LSTM deep-learning models and does not rely on a reference genome, genomic
