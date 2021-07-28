@@ -6,8 +6,9 @@ bioinformaticians and enthusiasts.
 
 ## How to contribute
 
-If you want to add a link try to follow these soft rules:
+If you want to add a link, please try to follow these soft rules:
 
+- Position your resource in alphabetical order.
 - Add section if needed.
 - Add section title to Table of contents.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
@@ -33,7 +34,7 @@ phage genomes. Seeker is based on an LSTM deep-learning models and does not rely
 alignment or any direct genome comparison.
 [ [web](http://seeker.pythonanywhere.com/predict/) ]
 - **[VIRify](https://github.com/EBI-Metagenomics/emg-viral-pipeline)** - VIRify: detection of phages and eukaryotic
-viruses from metagenomic and metatranscriptomic assemblies
+viruses from metagenomic and metatranscriptomic assemblies.
 
 ### Host prediction
 
@@ -46,18 +47,18 @@ relatedness among bacteria.
 - **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - an integrated tool for rapid prophage detection
 and annotation.
 - **[hafeZ](https://github.com/Chrisjrt/hafeZ)** - A tool for identifying inducible prophage elements through read
-mapping
+mapping.
 - **[Phigaro](https://github.com/bobeobibo/phigaro)** - Phigaro is a standalone command-line application that is able
 to detect prophage regions taking raw genome and metagenome assemblies as an input.
 - **[PhageBoost](https://github.com/ku-cbd/PhageBoost)** - Rapid discovery of novel prophages using biological feature
-engineering and machine learning
+engineering and machine learning.
 - **[PhiSpy](https://github.com/linsalrob/phispy)** - PhiSpy identifies prophages in Bacterial genomes. Given an
 annotated genome it will use several approaches to identify the most likely prophage regions.
 - **[Vibrant](https://github.com/AnantharamanLab/VIBRANT)** - VIBRANT is a tool for automated recovery and annotation
 of bacterial and archaeal viruses, determination of genome completeness, and characterization of viral community
 function from metagenomic assemblies.
 - **[VirSorter2](https://github.com/jiarong/VirSorter2)** - VirSorter2 applies a multi-classifier, expert-guided
-approach to detect diverse DNA and RNA virus genomes..
+approach to detect diverse DNA and RNA virus genomes.
 
 ### Gene prediction
 
