@@ -1,7 +1,21 @@
 # Awesome phages
 
-A curated list of awesome Phage related software, resources, and libraries. Mostly command line based, and free or
-open-source. Please feel free to contribute!
+A curated list of awesome Phage related software and other resources to facilitate the life of phage scientists,
+bioinformaticians and enthusiasts.
+
+
+## How to contribute
+
+If you want to add a link try to follow these soft rules:
+
+- Add section if needed.
+- Add section title to Table of contents.
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Add your links using another entry as inspiration
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.
+- Send a Pull Request.
+- Add short description in your Pull Request of why the project/resource/tool is awesome.
 
 ## Table of Contents
 
