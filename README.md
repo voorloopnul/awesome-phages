@@ -1,6 +1,6 @@
 # Awesome phages
 
-A curated list of awesome Phage related software and other resources to facilitate the life of phage scientists,
+A curated list of awesome phage related software and other resources to facilitate the life of phage scientists,
 bioinformaticians and enthusiasts.
 
 
