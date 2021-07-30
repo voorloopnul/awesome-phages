@@ -62,6 +62,7 @@ of bacterial and archaeal viruses, determination of genome completeness, and cha
 function from metagenomic assemblies.
 - **[VirSorter2](https://github.com/jiarong/VirSorter2)** - VirSorter2 applies a multi-classifier, expert-guided
 approach to detect diverse DNA and RNA virus genomes.
+- **[WTP](https://github.com/replikation/What_the_Phage)** What the Phage is a scalable workflow that combines multiple prophage prediction programs, including several of the aforementioned. It starts out of the raw fasta or fastq fules and generate a summary of the results obtained from each of the selected tools.
 
 ### Gene prediction
 
