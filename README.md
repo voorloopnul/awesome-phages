@@ -80,12 +80,13 @@ are penalized paths.
 
 ## Web tools
 
-- **[Phaster](https://phaster.ca/)** - Rapid identification and annotation of prophage sequences within bacterial
-genomes and plasmids.
 - **[Patric](https://www.patricbrc.org/)** PATRIC, the Pathosystems Resource Integration Center, provides integrated
 data and analysis tools to support biomedical research on bacterial infectious diseases.
 - **[Phamerator](https://phamerator.org/)** - Comparative genomics and genome exploration tool for bacteriophages.
 [ [source](https://github.com/scresawn/phamerator) ]
+- **[Phaster](https://phaster.ca/)** - Rapid identification and annotation of prophage sequences within bacterial
+genomes and plasmids.
+- **[Prophage Hunter](https://pro-hunter.genomics.cn/index.php/Home)** - Prophage Hunter is a web server tool that employs several criteria to score how likely a prophage is beeing active within a bacterial genome. See also the paper [here](https://academic.oup.com/nar/article/47/W1/W74/5494712).
 - **[RAST](https://rast.nmpdr.org/)** - RAST (Rapid Annotation using Subsystem Technology) is a fully-automated service
 for annotating complete or nearly complete bacterial and archaeal genomes. It provides high quality genome annotations
 for these genomes across the whole phylogenetic tree.
