@@ -93,6 +93,8 @@ for these genomes across the whole phylogenetic tree.
 
 ##  Miscellaneous
 
+- **[bacteriophage.news](https://www.bacteriophage.news/)** - Bacteriophage.news is a virtual space that provides
+general news, research articles & patient stories on phage therapy.
 - **[inphared](https://github.com/RyanCook94/inphared)** - Providing up-to-date phage genome databases, metrics and
 useful input files for a number of bioinformatic pipelines.
 - **[millardlab](http://millardlab.org/)** - Lab from the University of Leicester focused on bacteriophages with plenty
