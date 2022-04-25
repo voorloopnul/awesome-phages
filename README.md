@@ -47,7 +47,9 @@ relatedness among bacteria.
 
 ### Prophage prediction
 
-- **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - an integrated tool for rapid prophage detection
+- **[DEPhT](https://github.com/chg60/DEPhT)** - A new tool for identifying prophages in bacteria scanning hundreds to thousands of genomes and accurately extract complete (likely active) prophages from them. [Publicaiton](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac273/6572362)
+
+- **[DBSCAN-SWA](https://github.com/HIT-ImmunologyLab/DBSCAN-SWA)** - An integrated tool for rapid prophage detection
 and annotation.
 - **[hafeZ](https://github.com/Chrisjrt/hafeZ)** - A tool for identifying inducible prophage elements through read
 mapping.
