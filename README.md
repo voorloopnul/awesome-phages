@@ -41,6 +41,8 @@ viruses from metagenomic and metatranscriptomic assemblies.
 
 ### Host prediction
 
+- **[iphop](https://bitbucket.org/srouxjgi/iphop/src/main/)** - **iPHoP** stands for **i**ntegrated **P**hage **H**ost **P**rediction. It is an automated command-line pipeline for predicting host genus of novel bacteriophages and archaeoviruses based on their genome sequences.
+
 - **[phirbo](https://github.com/aziele/phirbo)** - A tool to predict prokaryotic hosts for phage (meta)genomic
 sequences. The tool uses information on sequence similarity between phage and bacteria genomes as well as sequence
 relatedness among bacteria.
