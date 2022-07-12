@@ -24,7 +24,7 @@ If you want to add a link, please try to follow these soft rules:
   - [Genome prediction](#genome-prediction) 
   - [Host prediction](#host-prediction)
   - [Prophage prediction](#prophage-prediction)
-  - [Gene prediction](#gene-prediction)
+  - [Gene prediction annotation](#gene-prediction-annotation)
 - [Web tools](#web-tools)
 - [Miscellaneous](#miscellaneous)
 
@@ -68,18 +68,19 @@ function from metagenomic assemblies.
 approach to detect diverse DNA and RNA virus genomes.
 - **[WTP](https://github.com/replikation/What_the_Phage)** - What the Phage is a scalable workflow that combines multiple prophage prediction programs, including several of the aforementioned. It starts out of the raw fasta or fastq files and generates an integrated summary of the results obtained from each of the selected tools.
 
-### Gene prediction
+### Gene prediction-annotation
 
 - **[multiPhATE2](https://github.com/carolzhou/multiPhATE2)** - MultiPhATE is a command-line program that runs gene
 finding and the PhATE annotation code over user-specified phage genomes, then performs gene-by-gene comparisons among
 the genomes.
 - **[Phanns](https://github.com/Adrian-Cantu/PhANNs)** - PhANNs is a tool to classify any phage ORF as one of 10
-structural protein class, or as "others". It uses an ensemble of Artificial Neural Networks.
-[ [web](https://edwards.sdsu.edu/phanns) ]
-- **[Phanotate](https://github.com/deprekate/PHANOTATE)** - PHANOTATE is a tool to annotate phage genomes. It uses the
+structural protein class, or as "others". It uses an ensemble of Artificial Neural Networks. [[web](https://edwards.sdsu.edu/phanns)]
+- **[PHANOTATE](https://github.com/deprekate/PHANOTATE)** - PHANOTATE is a tool to annotate phage genomes. It uses the
 assumption that non-coding bases in a phage genome is disadvantageous, and then populates a weighted graph to find the
 optimal path through the six frames of the DNA where open reading frames are beneficial paths, while gaps and overlaps
 are penalized paths.
+- **[pharokka](https://github.com/gbouras13/pharokka)** Pharokka is a rapid standardised annotation program for bacteriophages. It is inspired on [Prokka](https://github.com/tseemann/prokka). Gene prediction is performed with  **[PHANOTATE](https://github.com/deprekate/PHANOTATE) and functional annotation is based on the [PHROGs database](https://phrogs.lmge.uca.fr)
+
 - **[Prokka](https://github.com/tseemann/prokka)** - Prokka is not phage specific but is often used to annotate phages.
 
 ## Web tools
